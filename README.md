@@ -14,7 +14,7 @@ licenciatura-informatica/
 ├── semestre-2026-1/  
 │ ├── operacoines/  
 │ ├── programación/  
-│ └── razonamiento-lógico.matemático-para-la-toma-de-decisiones/
+│ └── razonamiento-lógico-matemático-para-la-toma-de-decisiones/
 
 ## 📖 Materias Actuales
 - **Operaciones** - Estudio del proceso administrativo
