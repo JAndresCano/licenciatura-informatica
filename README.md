@@ -12,7 +12,7 @@ licenciatura-informatica/
 │ ├── fundamentos-de-informática/  
 │ └── fundamentos-para-el-análisis-cuantitativos/  
 ├── semestre-2026-1/  
-│ ├── operacoines/  
+│ ├── operaciones/  
 │ ├── programación/  
 │ └── razonamiento-lógico-matemático-para-la-toma-de-decisiones/
 
