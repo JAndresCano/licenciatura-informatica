@@ -6,7 +6,7 @@ Aquí encontrarás ejercicios, proyectos y material de estudio organizado por se
 
 ## 🗂️ Estructura
 
-licenciatura-informatica/
+licenciatura-informatica/  
 ├── semestre-2025-2/  
 │ ├── diseño-de-algoritmos/  
 │ ├── fundamentos-de-informática/  
