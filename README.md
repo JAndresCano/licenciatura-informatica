@@ -8,19 +8,12 @@ Aquí encontrarás ejercicios, proyectos y material de estudio organizado por a�
 
 licenciatura-informatica/
 ├── semestre-2025-2/  
-
 │ ├── diseño-de-algoritmos/  
-
 │ ├── fundamentos-de-informática/  
-
 │ └── fundamentos-para-el-análisis-cuantitativos/  
-
 ├── semestre-2026-1/  
-
 │ ├── operacoines/  
-
 │ ├── programación/  
-
 │ └── razonamiento-lógico.matemático-para-la-toma-de-decisiones/
 
 ## 📖 Materias Actuales
