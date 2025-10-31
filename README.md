@@ -2,7 +2,7 @@
 
 ## 📚 Sobre este repositorio
 Este repositorio contiene mi trabajo académico durante la licenciatura en Informática. 
-Aquí encontrarás ejercicios, proyectos y material de estudio organizado por año y materia.
+Aquí encontrarás ejercicios, proyectos y material de estudio organizado por semestre y materia.
 
 ## 🗂️ Estructura
 
